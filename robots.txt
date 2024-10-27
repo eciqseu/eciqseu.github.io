@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://eciqseu.github.io/Dtr/Dtr.txt
